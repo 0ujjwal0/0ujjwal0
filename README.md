@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0ujjwal0
+- 👀 I’m interested in learning new things everyday
+- 🌱 I’m currently pursuing my btech degree
+- 📫 you can contact me on my official mail {ujjwal.12100544@lpu.in}
