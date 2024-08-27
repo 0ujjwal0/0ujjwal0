@@ -1,5 +1,5 @@
 <p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development."></p>
-<p align="center"><a href="https://app.daily.dev/ujjwalsangwan"><img src="https://api.daily.dev/devcards/v2/5jLTaYMgXT8ugqG2vCq7V.png?type=wide&r=90f" width="652" alt="Ujjwal Sangwan's Dev Card"/></a></p>
+
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">Learning Full stack web development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development, Blockchain, Web3.**
 
-- 📫 How to reach me **ujjwal.12100544@lpu.in**
+- 📫 How to reach me **ujjwalsangwan2003@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0ujjwal0&show_icons=true&locale=en" alt="0ujjwal0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0ujjwal0&" alt="0ujjwal0" /></p>
+<p><a href="https://app.daily.dev/ujjwalsangwan"><img align="right" src="https://api.daily.dev/devcards/v2/5jLTaYMgXT8ugqG2vCq7V.png?type=wide&r=90f" width="652" alt="Ujjwal Sangwan's Dev Card"/></a></p>
