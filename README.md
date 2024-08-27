@@ -1,4 +1,4 @@
-<p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif"></p>
+<p align="center"><img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development."></p>
 <p align="center"><a href="https://app.daily.dev/ujjwalsangwan"><img src="https://api.daily.dev/devcards/v2/5jLTaYMgXT8ugqG2vCq7V.png?type=wide&r=90f" width="652" alt="Ujjwal Sangwan's Dev Card"/></a></p>
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
 <h3 align="center">Learning Full stack web development</h3>
