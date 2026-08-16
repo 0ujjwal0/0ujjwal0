@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 💬 Ask me about **Web Development, Blockchain, Web3.**
+- 💬 Ask me about **Web Development,backend,APIS.**
 
 
 <h3 align="left">Languages and Tools:</h3>
